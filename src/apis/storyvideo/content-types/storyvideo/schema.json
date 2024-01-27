@@ -1,0 +1,22 @@
+{
+  "kind": "singleType",
+  "collectionName": "storyvideos",
+  "info": {
+    "singularName": "storyvideo",
+    "pluralName": "storyvideos",
+    "displayName": "Storyvideo"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "video": {
+      "allowedTypes": [
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

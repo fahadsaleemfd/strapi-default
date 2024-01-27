@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_services_simple_services",
+  "info": {
+    "displayName": "simple_service"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "richtext"
+    }
+  }
+}

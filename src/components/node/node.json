@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_node_nodes",
+  "info": {
+    "displayName": "Node"
+  },
+  "options": {},
+  "attributes": {
+    "list": {
+      "type": "string"
+    }
+  }
+}
